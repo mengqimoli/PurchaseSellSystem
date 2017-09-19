@@ -1,0 +1,111 @@
+采购订单
+{
+添加商品：buttonCGAddItem
+单据日期：labelCGTimeNow
+        ：dateTimePickerCGTimeNow
+订单金额：labelCGDAM
+          labelCGDAMnow
+保存：buttonCGSave
+生成文档：buttonCGWord
+重置：buttonCGReset
+备注：textBoxCGNote
+采购订单表：dataGridViewCG
+订单编号：labelCGNumber
+          labelCGNumberNow
+}
+
+订单查询
+{
+查询文本框：textBoxDDSearch
+日期：labelDDTime
+      labelDDMark
+      dateTimePickerDDStart
+      dateTimePickerDDEnd
+查询：buttonDDSearch
+显示全部：buttonDDsearchAll
+订单查询表：dataGridViewDD
+}
+
+供应商货品汇总
+{
+供应商：labelGYSName
+        comboBoxGYSName
+添加商品：buttonGYSAddItem
+查询：textBoxGYSSearch
+      buttonGYSSearch
+供应商货品汇总表：dataGridViewGYS
+}
+
+
+退货单
+{
+添加商品：buttonTHAddItem
+单据日期：labelTHTimeNow
+        ：dateTimePickerTHTimeNow
+订单金额：labelTHDAM
+          labelTHDAMnow
+保存：buttonTHSave
+生成文档：buttonTHWord
+重置：buttonTHReset
+备注：textBoxTHNote
+采购订单表：dataGridViewTH
+订单编号：labelTHNumber
+          labelTHNumberNow
+}
+
+库存
+{
+查询：textBoxKCSearch
+      comboBoxKCType
+      buttonKCSearch
+库存表：dataGridViewKC
+}
+
+入库单
+{
+查询：textBoxRKSearch
+      labelRKTime
+      labelRKMark
+      dataTimePickerRKStart
+      dataTimePickerRKEnd
+      buttonRKSearch
+显示全部：buttonRKAllShow
+入库表：dataGridViewRK
+}
+
+出库单
+{
+查询：textBoxCKSearch
+      labelCKTime
+      labelCKMark
+      dataTimePickerCKStart
+      dataTimePickerCKEnd
+      buttonCKSearch
+显示全部：buttonCKAllShow
+出库表：dataGridViewCK
+}
+
+销售收入单
+{
+查询：textBoxSRSearch
+      labelSRTime
+      labelSRMark
+      dataTimePickerSRStart
+      dataTimePickerSREnd
+      buttonSRSearch
+显示全部：buttonSRAllShow
+销售收入表：dataGridViewSR
+}
+
+商业账本
+{
+查询：textBoxZBSearch
+      labelZBTime
+      labelZBMark
+      dataTimePickerZBStart
+      dataTimePickerZBEnd
+      comboBoxZBType
+      buttonZBSearch
+显示全部：buttonZBAllShow
+销售收入表：dataGridViewZB
+}

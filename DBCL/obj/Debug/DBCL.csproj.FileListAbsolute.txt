@@ -1,0 +1,5 @@
+C:\Users\moli\Desktop\C#\新建文件夹11\新建文件夹\进销存\主程序\PurchaseSellSystem\DBCL\bin\Debug\DBCL.dll
+C:\Users\moli\Desktop\C#\新建文件夹11\新建文件夹\进销存\主程序\PurchaseSellSystem\DBCL\bin\Debug\DBCL.pdb
+C:\Users\moli\Desktop\C#\新建文件夹11\新建文件夹\进销存\主程序\PurchaseSellSystem\DBCL\obj\Debug\DBCL.csprojResolveAssemblyReference.cache
+C:\Users\moli\Desktop\C#\新建文件夹11\新建文件夹\进销存\主程序\PurchaseSellSystem\DBCL\obj\Debug\DBCL.dll
+C:\Users\moli\Desktop\C#\新建文件夹11\新建文件夹\进销存\主程序\PurchaseSellSystem\DBCL\obj\Debug\DBCL.pdb

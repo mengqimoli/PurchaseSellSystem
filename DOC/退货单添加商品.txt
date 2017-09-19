@@ -1,0 +1,17 @@
+表
+{
+多项选择：ColumnformTHCheck
+商品text：ColumnformTHFoodName
+退货数量text：ColumnformTHNumber
+仓库剩余text：ColumnformTHRest
+供应商text：ColumnformTHGYS
+}
+外部细节
+{
+查询：comboBoxformTHGYS
+      labelformTHMark
+      textBoxformTHSearch
+      buttonformTHSearch
+显示全部：buttonformTHAllShow
+添加：buttonformTHAdd
+}

@@ -1,0 +1,13 @@
+商品：labelformGYSFoodName
+      textBoxformGYSFoodName
+单价：labelformGYSDM
+      textBoxformGYSDM
+折扣率：labelformGYSDiscountL
+        textBoxformGYSDiscountL
+货存：labelformGYSQuantity
+      textBoxformGYSQuantity
+类型：labelformGYSFoodType
+      comboBoxformGYSFoodType
+备注：labelformGYSText
+      textBoxformGYSText
+添加：buttonformGYSAdd

@@ -1,0 +1,28 @@
+表
+{
+多项选择：ColumnformCGCheck
+商品text：ColumnformCGFoodName
+录入数量text：ColumnformCGNumber
+仓库剩余text：ColumnformCGRest
+供应商text：ColumnformCGGYS
+}
+外部细节
+{
+查询：comboBoxformCGGYS
+      labelformCGMark
+      textBoxformCGSearch
+      buttonformCGSearch
+显示全部：buttonformCGAllShow
+商品信息：groupBoxformCGFood
+商品名：labelformCGFoodName
+        labelFCFN
+单价：labelformCGDM
+      labelFCDM
+货存：labelformCGRest
+      labelFCR
+折扣率：labelformCGDiscount
+        labelFCD
+备注：labelformCGText
+      labelFCT
+添加：buttonformCGAdd
+}
